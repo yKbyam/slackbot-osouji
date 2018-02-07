@@ -57,3 +57,8 @@ typings/
 # dotenv environment variables file
 .env
 
+# slackbot apitoken file
+apitoken.json
+
+# .DS_Store banished!
+.DS_Store
