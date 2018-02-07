@@ -1,0 +1,17 @@
+{
+  "name": "osoujibot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "botkit": "^0.5.4",
+    "cron": "^1.2.1",
+    "node-at": "^0.1.0",
+    "node-schedule": "^1.2.3"
+  }
+}
